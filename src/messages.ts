@@ -2,7 +2,7 @@ export const GoodMessages = [
   'blaze',
   'bbbbblllaaazzeee',
   '420 blaze it',
-  `i like to blaze it blaze
+  `i like to blaze it blaze it
 i like to blaze it blaze it
 i like to blaze it blaze it
 ya like to (blaze it)`
